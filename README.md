@@ -1,4 +1,4 @@
-As part of the interview process for a news app developer job in New Zealand, I was asked to create a data viz based off of some housing data. I had to learn Semiotic (https://github.com/emeeks/semiotic) over the course of a weekend.
+As part of the interview process for a news app developer job in New Zealand, I was asked to create a data viz based off of some housing data. I had to learn Semiotic (hhttps://semiotic.nteract.io/) over the course of a weekend.
 
 I have permission from the editor I was working with to show this repo, with names and some details omitted. Originally, I uploaded the viz to a private repo that already had a master branch. This is why you will only see one branch, tina-dwelling, in this repo. 
 
